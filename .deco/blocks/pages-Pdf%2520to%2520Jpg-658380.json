@@ -1,0 +1,9 @@
+{
+  "name": "Pdf to Jpg",
+  "path": "/pdf-to-jpg",
+  "sections": [],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
